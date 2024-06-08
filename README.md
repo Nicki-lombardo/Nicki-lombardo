@@ -15,7 +15,7 @@ key programming languages:
    
 2. JavaScript:  Ecosystem of frameworks like React, Angular, and Vue. 
 
-3. HTML: HTML is a standard markup language used for structuring and marking up web pages. 
+3. HTML: Standard markup language used for structuring and marking up web pages. 
 
 4. CSS: While not a programming language per se, CSS (Cascading Style Sheets) is crucial for styling web pages. It complements HTML and ensures visually appealing designs.
 
