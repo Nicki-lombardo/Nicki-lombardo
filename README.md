@@ -27,7 +27,8 @@ Remember, continuous learning and staying up-to-date with evolving trends are vi
 
 Feel free to explore these languages and dive into web development! If you have any more questions, feel free to ask! 😊
 
-![Bubble](https://github.com/Nicki-lombardo/Nicki-lombardo/assets/139465420/33f83700-6c8b-48b3-959a-fa85da93faac)
+
+![InfoProtocol](https://github.com/Nicki-lombardo/Nicki-lombardo/assets/139465420/83407b97-f768-4f83-8119-de5c84434b53)
 
 
 <!---
