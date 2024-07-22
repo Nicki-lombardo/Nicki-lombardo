@@ -9,17 +9,14 @@
  
 ### key programming languages:
 
-1. Django: Python Frameworks
-   
-2. JavaScript:  Ecosystem of frameworks like React, Angular, and Vue. 
+- ⭕ Django: Python Frameworks
+- ⭕ JavaScript:  Ecosystem of frameworks like React, Angular, and Vue. 
+- ⭕ HTML: Standard markup language used for structuring and marking up web pages. 
+- ⭕ CSS: Cascading Style Sheets 
+- ⭕ TypeScript: An extension of JavaScript, TypeScript offers static typing and additional features.
+  
+- ⭕ Tools:⭕ 1. Visual Studio Code (VS Code). 2. Backbone.js 3. CodePen: HTML, CSS, and JavaScript, frameworks and libraries, such as Vue.js and React. 4. Webpack 5. Vite 6. Parcel 
 
-3. HTML: Standard markup language used for structuring and marking up web pages. 
-
-4. CSS: While not a programming language per se, CSS (Cascading Style Sheets) is crucial for styling web pages. It complements HTML and ensures visually appealing designs.
-
-5. TypeScript: An extension of JavaScript, TypeScript offers static typing and additional features.
-   
-6.  Tools: 1. Visual Studio Code (VS Code). 2. Backbone.js 3. CodePen: HTML, CSS, and JavaScript, frameworks and libraries, such as Vue.js and React. 4. Webpack 5. Vite 6. Parcel
 
 Remember, continuous learning and staying up-to-date with evolving trends are vital for success in full-stack development! 🚀
 
