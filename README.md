@@ -1,15 +1,15 @@
 # Welcome to my GitHub repositories! 🚀
 
-😊 As a **Full Stack / Web Dev. & UX/UI Designer**, I am dedicated to translating smart ideas into tangible solutions for clients. 
+😊 ## As a **Full Stack / Web Dev. & UX/UI Designer**, I am dedicated to translating smart ideas into tangible solutions for clients. 
 
- 🚀 Whether it's creating engaging user interfaces or building robust back-end systems, I strive to deliver high-quality work. 
+ 🚀 ## Whether it's creating engaging user interfaces or building robust back-end systems, I strive to deliver high-quality work. 
 
- 🚀 To achieve this, I rely on a set of essential tools that every Full Stack developer and web designer should be familiar with:
+ 🚀 ## To achieve this, I rely on a set of essential tools that every Full Stack developer and web designer should be familiar with:
 
 
 ---
  
-key programming languages:
+# key programming languages:
 
 1. Django: Python Frameworks
    
