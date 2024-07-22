@@ -1,4 +1,4 @@
-"Welcome to my GitHub repositories!" 🚀
+# "Welcome to my GitHub repositories!" 🚀
 
 😊 As a Full Stack / Web Dev. & UX/UI Designer, I am dedicated to translating smart ideas into tangible solutions for clients. 
 
