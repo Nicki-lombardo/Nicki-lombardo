@@ -1,4 +1,4 @@
-## Hi, Welcome to my GitHub repos! 🚀
+## Hi there 😃, Welcome to my GitHub repos! 🚀
 
 ### As a **Full Stack / Web Dev. & UX/UI Designer**, I am dedicated to translating smart ideas into tangible solutions for clients. 😊
 ### Whether it's creating engaging user interfaces or building robust back-end systems, I strive to deliver high-quality work. 🚀
