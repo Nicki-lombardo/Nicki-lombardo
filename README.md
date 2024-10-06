@@ -29,8 +29,6 @@
 
 Remember, continuous learning and staying up-to-date with evolving trends are vital for success in full-stack development! 🚀
 
-Feel free to explore these languages and dive into web development! If you have any more questions, feel free to ask! 😊
-
   </div>
 
 
